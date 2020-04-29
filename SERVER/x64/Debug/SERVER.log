@@ -1,0 +1,4 @@
+﻿  SERVER.cpp
+C:\Users\Easy\Desktop\programma\SERVER\SERVER.cpp(5,33): warning C4081: требуется "newline"; обнаружен ";"
+C:\Users\Easy\Desktop\programma\SERVER\SERVER.cpp(49,79): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  SERVER.vcxproj -> C:\Users\Easy\Desktop\programma\SERVER\x64\Debug\SERVER.exe

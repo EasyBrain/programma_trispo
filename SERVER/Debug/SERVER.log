@@ -1,0 +1,3 @@
+﻿  SERVER.cpp
+D:\Visual\SERVER\SERVER.cpp(5,33): warning C4081: требуется "newline"; обнаружен ";"
+  SERVER.vcxproj -> D:\Visual\SERVER\Debug\SERVER.exe

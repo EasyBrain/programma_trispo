@@ -1,0 +1,4 @@
+C:\Users\Easy\Desktop\coursework-trispo-1-FireDragonchik-patch-1\CLIENT\x64\Debug\CLIENT.exe
+C:\Users\Easy\Desktop\coursework-trispo-1-FireDragonchik-patch-1\CLIENT\x64\Debug\CLIENT.pdb
+C:\Users\Easy\Desktop\programma\CLIENT\x64\Debug\CLIENT.exe
+C:\Users\Easy\Desktop\programma\CLIENT\x64\Debug\CLIENT.pdb

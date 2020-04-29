@@ -1,0 +1,4 @@
+C:\Users\Easy\Desktop\coursework-trispo-1-FireDragonchik-patch-1\SERVER\x64\Debug\SERVER.exe
+C:\Users\Easy\Desktop\coursework-trispo-1-FireDragonchik-patch-1\SERVER\x64\Debug\SERVER.pdb
+C:\Users\Easy\Desktop\programma\SERVER\x64\Debug\SERVER.exe
+C:\Users\Easy\Desktop\programma\SERVER\x64\Debug\SERVER.pdb

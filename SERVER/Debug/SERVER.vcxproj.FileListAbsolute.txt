@@ -1,0 +1,2 @@
+D:\Visual\SERVER\Debug\SERVER.exe
+D:\Visual\SERVER\Debug\SERVER.pdb
